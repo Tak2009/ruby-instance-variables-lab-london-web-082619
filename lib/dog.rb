@@ -8,8 +8,8 @@ class Dog
   end
   
 end  
-  lassie = Dog.new
-  lassie.name = "Lassie"
-  lassie.name
+  #lassie = Dog.new
+  #lassie.name = "Lassie"
+  #lassie.name
   
   puts lassie.name
